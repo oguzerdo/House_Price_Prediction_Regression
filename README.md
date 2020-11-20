@@ -1,4 +1,4 @@
-# House Price Prediction with Regression Models
+# Regresyon Modelleri ile Ev Fiyat Tahmin Modeli
 
 <a href="https://www.oguzerdogan.com/">
     <img src="https://www.oguzerdogan.com/wp-content/uploads/2020/10/logo_oz.png" width="200" align="right"></a>
