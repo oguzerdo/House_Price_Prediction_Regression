@@ -9,7 +9,7 @@
 
 
 
-Bu proje ilk ciddi projemdi. Birçok tekniği denemek ve bilgimi güçlendirmek için mükemmel bir deneyim oldu. Üzerinde oldukça fazla araştırma yaptım ve sonucunda meyvesini Kaggle üzerindeki yarışmada top %1e girerek aldım. Çalışma başta İngilizce olarak hazırlanmış olup sonrasında bu çalışma ile ilgili çok fazla Türkçe kaynak olmaması sebebiyle Türkçe olarak paylaşılmıştır. 
+Bu proje ilk ciddi projemdi. Birçok tekniği denemek ve bilgimi güçlendirmek için mükemmel bir deneyim oldu. Üzerinde oldukça fazla araştırma yaptım ve sonucunda meyvesini Kaggle üzerindeki yarışmada **top %1e girerek** aldım. Çalışma başta İngilizce olarak hazırlanmış olup sonrasında bu çalışma ile ilgili çok fazla Türkçe kaynak olmaması sebebiyle Türkçe olarak paylaşılmıştır. 
 
 Notebooktaki nihai amacımız Ames Lowa’daki konut evlerini neredeyse her açıdan tanımlayan 79 açıklayıcı değişken ile beraberindeki 1459 adet evin fiyatını minimum hata ile tahmin etmek.
 
