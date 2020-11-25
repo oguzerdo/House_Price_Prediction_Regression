@@ -8,7 +8,7 @@
 ![banner](https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png)
 
 
-Projedeki nihai amacımız Ames Lowa’daki konut evlerini neredeyse her açıdan tanımlayan 79 açıklayıcı değişken ile beraberindeki 1459 adet evin fiyatını minimum hata ile tahmin etmek.
+Projedeki nihai amacımız Ames Lowa’daki 1459 adet evin fiyatını neredeyse her açıdan tanımlayan 79 açıklayıcı değişken ile beraberindeki minimum hata ile tahmin etmek.
 
 Çalışmanın başında ExtraTreeRegressor ile bir base model kurup en iyi sayısal ve kategorik değişkenleri ayrı ayrı inceledim.
 
